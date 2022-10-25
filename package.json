@@ -1,5 +1,6 @@
 {
-  "name": "react-complete-guide",
+  "homepage": "https://marknasser.github.io/expenses-app",
+  "name": "expenses-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
